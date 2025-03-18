@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "lastfm.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'lastfm.api.key'"
+  },
+  {
+    "name": "lastfm.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'lastfm.api.url'"
+  },
+  {
+    "name": "lastfm.api.key",
+    "type": "java.lang.String",
+    "description": "A description for 'lastfm.api.key'"
+  },
+  {
+    "name": "lastfm.api.url",
+    "type": "java.lang.String",
+    "description": "A description for 'lastfm.api.url'"
+  }
+]}
